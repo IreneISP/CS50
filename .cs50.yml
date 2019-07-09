@@ -6,5 +6,4 @@ lab50:
  files:
     - !include foo.c
     - !include foo.h   
-    - !include foo/bar.c
-    - !include foo/bar.h
+   
